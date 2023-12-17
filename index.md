@@ -6,128 +6,6 @@ data:
     - icon: ':heavy_check_mark:'
       path: sample/sample.hpp
       title: sample/sample.hpp
-  - name: verify/sample
-    pages:
-    - icon: ':warning:'
-      path: verify/sample/10.cpp
-      title: verify/sample/10.cpp
-    - icon: ':warning:'
-      path: verify/sample/11.cpp
-      title: verify/sample/11.cpp
-    - icon: ':warning:'
-      path: verify/sample/12.cpp
-      title: verify/sample/12.cpp
-    - icon: ':warning:'
-      path: verify/sample/13.cpp
-      title: verify/sample/13.cpp
-    - icon: ':warning:'
-      path: verify/sample/14.cpp
-      title: verify/sample/14.cpp
-    - icon: ':warning:'
-      path: verify/sample/15.cpp
-      title: verify/sample/15.cpp
-    - icon: ':warning:'
-      path: verify/sample/16.cpp
-      title: verify/sample/16.cpp
-    - icon: ':warning:'
-      path: verify/sample/17.cpp
-      title: verify/sample/17.cpp
-    - icon: ':warning:'
-      path: verify/sample/18.cpp
-      title: verify/sample/18.cpp
-    - icon: ':warning:'
-      path: verify/sample/19.cpp
-      title: verify/sample/19.cpp
-    - icon: ':warning:'
-      path: verify/sample/20.cpp
-      title: verify/sample/20.cpp
-    - icon: ':warning:'
-      path: verify/sample/21.cpp
-      title: verify/sample/21.cpp
-    - icon: ':warning:'
-      path: verify/sample/22.cpp
-      title: verify/sample/22.cpp
-    - icon: ':warning:'
-      path: verify/sample/23.cpp
-      title: verify/sample/23.cpp
-    - icon: ':warning:'
-      path: verify/sample/24.cpp
-      title: verify/sample/24.cpp
-    - icon: ':warning:'
-      path: verify/sample/25.cpp
-      title: verify/sample/25.cpp
-    - icon: ':warning:'
-      path: verify/sample/26.cpp
-      title: verify/sample/26.cpp
-    - icon: ':warning:'
-      path: verify/sample/27.cpp
-      title: verify/sample/27.cpp
-    - icon: ':warning:'
-      path: verify/sample/28.cpp
-      title: verify/sample/28.cpp
-    - icon: ':warning:'
-      path: verify/sample/29.cpp
-      title: verify/sample/29.cpp
-    - icon: ':warning:'
-      path: verify/sample/30.cpp
-      title: verify/sample/30.cpp
-    - icon: ':warning:'
-      path: verify/sample/31.cpp
-      title: verify/sample/31.cpp
-    - icon: ':warning:'
-      path: verify/sample/32.cpp
-      title: verify/sample/32.cpp
-    - icon: ':warning:'
-      path: verify/sample/33.cpp
-      title: verify/sample/33.cpp
-    - icon: ':warning:'
-      path: verify/sample/34.cpp
-      title: verify/sample/34.cpp
-    - icon: ':warning:'
-      path: verify/sample/35.cpp
-      title: verify/sample/35.cpp
-    - icon: ':warning:'
-      path: verify/sample/36.cpp
-      title: verify/sample/36.cpp
-    - icon: ':warning:'
-      path: verify/sample/37.cpp
-      title: verify/sample/37.cpp
-    - icon: ':warning:'
-      path: verify/sample/38.cpp
-      title: verify/sample/38.cpp
-    - icon: ':warning:'
-      path: verify/sample/39.cpp
-      title: verify/sample/39.cpp
-    - icon: ':warning:'
-      path: verify/sample/40.cpp
-      title: verify/sample/40.cpp
-    - icon: ':warning:'
-      path: verify/sample/41.cpp
-      title: verify/sample/41.cpp
-    - icon: ':warning:'
-      path: verify/sample/42.cpp
-      title: verify/sample/42.cpp
-    - icon: ':warning:'
-      path: verify/sample/43.cpp
-      title: verify/sample/43.cpp
-    - icon: ':warning:'
-      path: verify/sample/44.cpp
-      title: verify/sample/44.cpp
-    - icon: ':warning:'
-      path: verify/sample/45.cpp
-      title: verify/sample/45.cpp
-    - icon: ':warning:'
-      path: verify/sample/46.cpp
-      title: verify/sample/46.cpp
-    - icon: ':warning:'
-      path: verify/sample/47.cpp
-      title: verify/sample/47.cpp
-    - icon: ':warning:'
-      path: verify/sample/48.cpp
-      title: verify/sample/48.cpp
-    - icon: ':warning:'
-      path: verify/sample/49.cpp
-      title: verify/sample/49.cpp
   verificationCategories:
   - name: verify/sample
     pages:
@@ -161,6 +39,126 @@ data:
     - icon: ':heavy_check_mark:'
       path: verify/sample/09.test.cpp
       title: verify/sample/09.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/10.test.cpp
+      title: verify/sample/10.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/11.test.cpp
+      title: verify/sample/11.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/12.test.cpp
+      title: verify/sample/12.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/13.test.cpp
+      title: verify/sample/13.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/14.test.cpp
+      title: verify/sample/14.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/15.test.cpp
+      title: verify/sample/15.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/16.test.cpp
+      title: verify/sample/16.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/17.test.cpp
+      title: verify/sample/17.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/18.test.cpp
+      title: verify/sample/18.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/19.test.cpp
+      title: verify/sample/19.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/20.test.cpp
+      title: verify/sample/20.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/21.test.cpp
+      title: verify/sample/21.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/22.test.cpp
+      title: verify/sample/22.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/23.test.cpp
+      title: verify/sample/23.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/24.test.cpp
+      title: verify/sample/24.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/25.test.cpp
+      title: verify/sample/25.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/26.test.cpp
+      title: verify/sample/26.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/27.test.cpp
+      title: verify/sample/27.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/28.test.cpp
+      title: verify/sample/28.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/29.test.cpp
+      title: verify/sample/29.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/30.test.cpp
+      title: verify/sample/30.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/31.test.cpp
+      title: verify/sample/31.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/32.test.cpp
+      title: verify/sample/32.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/33.test.cpp
+      title: verify/sample/33.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/34.test.cpp
+      title: verify/sample/34.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/35.test.cpp
+      title: verify/sample/35.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/36.test.cpp
+      title: verify/sample/36.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/37.test.cpp
+      title: verify/sample/37.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/38.test.cpp
+      title: verify/sample/38.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/39.test.cpp
+      title: verify/sample/39.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/40.test.cpp
+      title: verify/sample/40.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/41.test.cpp
+      title: verify/sample/41.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/42.test.cpp
+      title: verify/sample/42.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/43.test.cpp
+      title: verify/sample/43.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/44.test.cpp
+      title: verify/sample/44.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/45.test.cpp
+      title: verify/sample/45.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/46.test.cpp
+      title: verify/sample/46.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/47.test.cpp
+      title: verify/sample/47.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/48.test.cpp
+      title: verify/sample/48.test.cpp
+    - icon: ':heavy_check_mark:'
+      path: verify/sample/49.test.cpp
+      title: verify/sample/49.test.cpp
   - name: verify
     pages:
     - icon: ':heavy_check_mark:'
