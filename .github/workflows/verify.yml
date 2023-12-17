@@ -165,5 +165,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GH_PAT: ${{ secrets.GH_PAT }}
       run: |
-        oj-verify docs --jobs 4
+        oj-verify docs --jobs $(nproc)
         rm -r /home/runner/work/_temp/
